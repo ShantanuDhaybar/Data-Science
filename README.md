@@ -36,9 +36,6 @@ The project consists of several Jupyter Notebooks that cover different aspects o
 ```bash
   https://colab.research.google.com/
 ```
-## 🚀 About Me
-Hi, my name is Shantanu Dhaybar, and I am a junior Software Engineer with one year of experience in JavaScript, React JS, React Native, Data Science, and Machine Learning.
-
 ## Roadmap
 
 - Learn Numpy
@@ -46,3 +43,6 @@ Hi, my name is Shantanu Dhaybar, and I am a junior Software Engineer with one ye
 - Learn Matplotlib and Seaboarn (Data Visualization Libraries)
 - Build Projects
 
+
+## 🚀 About Me
+Hi, my name is Shantanu Dhaybar, and I am a junior Software Engineer with one year of experience in JavaScript, React JS, React Native, Data Science, and Machine Learning.
